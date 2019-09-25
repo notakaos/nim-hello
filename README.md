@@ -2,7 +2,7 @@
 
 * Requirements
   * nim >= 1.0.0
-  * nimble >= v11.0
+  * nimble >= v0.11.0
 
 # Run code
 
