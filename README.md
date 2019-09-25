@@ -30,4 +30,11 @@ nimble install -y
 nimble run nim_hello
 ```
 
+## http_client
+
+```bash
+cd http_client
+nimble -d:ssl run http_client
+```
+
 
